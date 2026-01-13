@@ -20,7 +20,7 @@ General guidance for speaking about the IETF at external events applies broadly 
 
 - https://chairs.ietf.org/en/speaking
 
-Participants in external events are expected to be familiar with and follow the principles outlined in that guidance.
+Participants in external events are expected to be familiar with it.
 
 ## Principles
 
