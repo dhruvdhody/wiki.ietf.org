@@ -26,7 +26,7 @@ Participants in external events are expected to be familiar with it.
 
 ### Outreach and Community Benefit
 
-Participation in external events can benefit the broader IETF community by:
+Participation in external events can benefit the IETF by:
 
 - Increasing awareness of IETF work
 - Encouraging participation from new or underrepresented communities
