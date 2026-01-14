@@ -2,8 +2,8 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2025-11-20T16:30:14.682Z
-tags: iesg, leadership
+date: 2026-01-01T06:42:47.764Z
+tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
 ---

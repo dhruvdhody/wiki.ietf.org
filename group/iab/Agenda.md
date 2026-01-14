@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2025-12-17T16:17:15.921Z
+date: 2026-01-13T17:51:35.102Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -25,7 +25,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 
 
-### 1. Adiminstrivia
+### 1. Administrivia
 
 #### 1.1. Attendance
 
@@ -34,6 +34,8 @@ dateCreated: 2023-12-04T23:35:41.632Z
 #### 1.3. Meeting Minutes
 
 For approval:
+
+- 2025-12-17 business meeting - (submitted 2025-12-17) 
 
 ### 2. Monthly Reports (Liaisons, etc.)
 
@@ -44,21 +46,44 @@ For approval:
 - IAB Outreach Coordinator
 - Liaison Coordinators
 
-### 3.
+### 3. Adoption of draft-edm-protocol-greasing on the IAB Stream
 
-### 4.
-
-
-### Executive Session
-
-- ISOC BoT Appointment (Cindy)
-    - GitHub: https://github.com/intarchboard/responsibilities/issues/72
+  Goal: Record/finalize vote started on 2025-12-17 meeting and continued by e-vote.
 
 
-- Independent Submissions Editor Appointment 
-    - GitHub: https://github.com/intarchboard/responsibilities/issues/64
+### 4. Wiki updates (Dhruv)
 
-- Executive Session: Appeals processing
+- Workshop [(Diff)](https://github.com/dhruvdhody/wiki.ietf.org/commit/781322724fe58f2fba78f058fca79e4fa487066f)
+
+- Guidance for External Events [(GitHub)](https://github.com/dhruvdhody/wiki.ietf.org/blob/main/group/iab/external.md)
+
+
+### 5. Review of Open Issues for Responsibilities (Tommy)
+
+ GitHub: https://github.com/intarchboard/responsibilities/issues
+
+
+### 6. Executive Session: ISOC BoT Appointment (Cindy)
+
+  GitHub: https://github.com/intarchboard/responsibilities/issues/72
+
+  Goal: Update on nominations status, organize interviews
+
+
+### 7. Executive Session: Independent Submissions Editor Appointment 
+  (Cindy)
+
+  GitHub: https://github.com/intarchboard/responsibilities/issues/64
+
+  Goal: Record/finalize e-vote started on 2025-12-19
+
+
+### 8. Executive Session: Appeal-handling policy
+
+  Goal: Review draft IAB statement
+
+
+
 
 
 
@@ -66,7 +91,8 @@ For approval:
 
 * Mirja (until Feb 2)
 
- 
+## Possible agenda Items for the Formal if there is time
+
 
 
 ## Topics for Future Informal Meetings

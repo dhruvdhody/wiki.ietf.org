@@ -2,7 +2,7 @@
 title: SPRING WG - Source Packet Routing in Networking
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2025-12-18T14:31:30.743Z
+date: 2026-01-13T16:51:05.583Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
@@ -34,10 +34,6 @@ Chairs notepad: https://wiki.ietf.org/en/group/spring/chairs_notepad
    * [IETF 117] The authors asked for WGLC.
    * 2024-07-17: The Shepherd (Ketan Talaulikar) sent a review.
    * 2025-01-06: Status: [WGLC ended](https://mailarchive.ietf.org/arch/msg/spring/J1bVdJsKfxTRhHOSau02xnNe-wQ/), but it was inconclusive.  Waiting for updates before a new WGLC.
-* draft-ietf-spring-segment-protection-sr-te-paths
-   * [Responsible Chair: Bruno]
-   * 2023-07-03 Authors asked for WGLC
-   * 2025-06-17 comments sent to authors. Waiting for draft update  (-08 was only a refresh)
 * draft-ietf-spring-resource-aware-segments
   * [Responsible Chair: Alvaro]
   * 2024-03-05 Authors sent request
@@ -80,14 +76,13 @@ https://wiki.ietf.org/en/group/spring/WGLC_history
   * [Responsible Chair: Bruno]
   * 2025-07-10 Authors sent request.
   * 2025-10-22 Related to draft-ietf-v6ops-framework-md-ipv6only-underlay which does not seem to explicitly call for an SRv6 extension
-* draft-karboubi-spring-sr-policy-eligibility
-  * [Responsible Chair: Alvaro]
-  * 2025-07-25 (IETF 123) Authors sent request
-  * 2025-11-25 [Adoption Call](https://mailarchive.ietf.org/arch/msg/spring/-5Q0RgVXGGNB1b97DFWohACR7_Y/)
+(https://mailarchive.ietf.org/arch/msg/spring/-5Q0RgVXGGNB1b97DFWohACR7_Y/)
 * draft-watal-spring-srv6-sfc-sr-aware-functions
   * 2025-11-04 (IETF 124) Authors sent request
+  * 2026-01-13 waiting for WG engagment
 * draft-ali-spring-sr-service-programming-oam
   * 2025-11-04 (IETF 124) Authors sent request
+  * 2026-01-13 waiting for WG engagment
 * draft-jiang-spring-sr-policy-nrp
   * [Responsible Chair: Alvaro]
   * 2025-11-27 Request from authors

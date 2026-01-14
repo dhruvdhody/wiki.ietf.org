@@ -1,28 +1,28 @@
 ---
-title: IETF 125 Hackathon
+title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-01-14T00:57:10.156Z
+date: 2025-12-19T23:23:50.526Z
 tags: 
 editor: markdown
-dateCreated: 2025-09-22T19:36:14.882Z
+dateCreated: 2025-12-19T23:23:50.526Z
 ---
 
 The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 
-* :spiral_calendar: **When**: 14 - 15 March 2026 (Saturday - Sunday)
-* :hotel: **Where**: Futian Shangri-La
+* :spiral_calendar: **When**: 18 - 19 July 2026 (Saturday - Sunday)
+* :hotel: **Where**: Hilton Vienna Park
 * :cityscape: **Room**: TBD
 {.grid-list}
 
 **Sign up for the Hackathon**
-* [Onsite registration](https://registration.ietf.org/125/new/hackathon_onsite/)
-* [Remote registration](https://registration.ietf.org/125/new/hackathon_remote/)
+* [Onsite registration](https://registration.ietf.org/126/new/hackathon_onsite/)
+* [Remote registration](https://registration.ietf.org/126/new/hackathon_remote/)
 {.links-list}
 
 **View the list of registered**:
-* [Onsite Hackathon participants](https://registration.ietf.org/125/participants/hackathon_onsite/)
-* [Remote Hackathon participants](https://registration.ietf.org/125/participants/hackathon_remote/)
+* [Onsite Hackathon participants](https://registration.ietf.org/126/participants/hackathon_onsite/)
+* [Remote Hackathon participants](https://registration.ietf.org/126/participants/hackathon_remote/)
 {.links-list}
 
 Keep up to date by subscribing to the [IETF Hackathon email list](https://www.ietf.org/mailman/listinfo/hackathon).
@@ -33,7 +33,7 @@ The IETF Hackathon is free to attend and is open to everyone. It is a collaborat
 ***Subject to Change***
 Hackathon *(all times are GMT-4)*
 
-### Saturday, 14 March 
+### Saturday, 18 July 
 
 * **09:30** : Room open for setup by project champions
 * **10:00** : Room open for all - pastries and coffee provided
@@ -45,7 +45,7 @@ Hackathon *(all times are GMT-4)*
 * **20:30** : Room closes 
 {.grid-list}
 
-### Sunday, 15 March
+### Sunday, 19 July
 
 * **09:30** : Room opens - pastries and coffee provided
 * **12:30** : Lunch provided
@@ -59,15 +59,15 @@ Related activities before and after the Hackathon weekend
 
 ## Hackdemo Happy Hour
   * Share your Hackathon project with the IETF community
-  * Monday, 16 March, Time: 19:00 - 20:00, Room: **TBD**
+  * Monday, 20 July, Time: 19:00 - 20:00, Room: **TBD**
   * View the [schedule](hackdemo) or reserve space for your team/project
-    * Reservations for space must be made by 13:00, Monday 16 March
+    * Reservations for space must be made by 13:00, Monday 20 July
 
 ## Shared Workspace
   * Space for groups to gather and collaborate on running code 
-  * Monday - Friday, 16 - 20 March, Room: **TBD** 
+  * Monday - Friday, 18 - 24 July, Room: **TBD** 
+  * View the [schedule](codelounge) or reserve space for your team/project
 
-## Meetecho
 **NOTE:** You will need an [IETF Datatracker](https://datatracker.ietf.org) account to login to the Hackathon Meetecho sessions. 
 
 When you register for the IETF Hackathon, you are sent a separate email to create an IETF Datatracker account if you don't already have one. 
@@ -85,7 +85,7 @@ If you received the email but the link to create an account has expired, please 
 
 * You can share the code you're working on through the [IETF Hackathon GitHub](https://github.com/ietf-hackathon), or via the links provided in the project descriptions below.
     * Request to be added to IETF GitHub organization by sending your GitHub ID to (hackathon-chairs@ietf.org).
-* Hackathon project result presentations should be uploaded to Datatracker under the specific session [Hackathon Results Presentations](https://datatracker.ietf.org/meeting/125/session/33500/propose_slides) at 14:00-16:00.
+* Hackathon project result presentations should be uploaded to Datatracker under the specific session [Hackathon Results Presentations](https://datatracker.ietf.org/meeting/126/session/33500/propose_slides) at 14:00-16:00.
     * To upload your presentation, you must have a Datatracker account and be logged in.
 * The Hackathon Results presentations from Sunday, 14:00-16:00, are available on Datatracker:
     * https://datatracker.ietf.org/meeting/125/session/hackathon#autoid-16
@@ -136,7 +136,7 @@ If you received the email but the link to create an account has expired, please 
 **Access to the IETF network**
 The NOC team has an ongoing experiment that allows you to join the IETF network remotely as well as at an IETF meeting venue. 
 
-* [How to Instructions](/meeting/124/hackathon/hacknet_instructions)
+* [How to Instructions](/meeting/125/hackathon/hacknet_instructions)
 
 Requests for networking capabilities beyond wireless access to the IETF network (e.g., wired ports, L2 access, prefix delegation) can be sent to <support@ietf.org>. 
 All requests are addressed on a best effort basis. Advance notice is appreciated and improves the odds of your request being fulfilled.
@@ -167,35 +167,19 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 
 *Note, all projects are open to everyone. However, some champions have identified their projects as being particularly good for those who are new to the IETF or new to the Hackathon. These projects are marked with a star, i.e. `*`. If you are championing a project that is great for newcomers, please add a `*` at the end of your project name.*
 
-For inspiration and examples of previous Hackathon projects see the [previous Hackathon page](/meeting/124/hackathon#projects-included-in-hackathon).
+For inspiration and examples of previous Hackathon projects see the [previous Hackathon page](/meeting/125/hackathon#projects-included-in-hackathon).
 
-### High Performance Wide Area Networks (HP-WAN)
+### First Project Here (replace me)
 - **Champions**
-Quan Xiong (xiong.quan@zte.com.cn)
-Daniel King (d.king@lancaster.ac.uk)
-Tim Chown (tim.chown@jisc.ac.uk)
+name and email
 - **Project Info**
-High-performance WAN (HP-WAN) is designed specifically to meet the high-speed, low-latency, and high-capacity needs of data-intensive applications and enable the host-and-network collaboration for the high-speed and high-throughput data transmission, coupled with fast completion time.
-
-- **Hackathon Plan**
-1.HPWAN deployment on topologies for public networks and service scenarios based on the HP-WAN framework
-2.Learn about HPWAN developments and open-source controllers and orchestrators for integrated HPWAN connection management (IETF RestConf/NetConf/YANG)
-3.Integration and simulation of the HP-WAN functions, such as the rate negotiation, admission control, traffic scheduling, and resource reservations with distributed signalling  (IETF RSVP-TE)
-4.Perform the CC algorithms optimizations (e.g. DCQCN algorithm) to simulate the traffic transmission with negotiated rates and compare with the HPWAN approach
-5.Work on improvements to IETF protocols and models for cooperation between HPWAN domains.
-
-- **Related documents**
-Framework for High Performance Wide Area Network (HP-WAN)
-https://datatracker.ietf.org/doc/draft-xhy-hpwan-framework/
-Current State of the Art for High Performance Wide Area Networks
-https://datatracker.ietf.org/doc/draft-kcrh-hpwan-state-of-art/
-
+project description
 
 ### Second Project Here (replace me)
 - **Champions**
-Chongfeng Xie
+name and email
 - **Project Info**
-YANG2API
+project description
 
 ---
 

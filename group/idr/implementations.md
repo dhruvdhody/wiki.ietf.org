@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2025-12-08T17:36:48.287Z
+date: 2026-01-09T18:40:04.558Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -13,26 +13,20 @@ dateCreated: 2023-03-13T05:29:13.348Z
 ## old implementation pages 
 - [Old-summary-page](/group/idr/BGP-Implementation-report/)
 
-## Implementation Reports for Drafts in queue of RFC editor
- - [draft-ietf-idr-sr-policy-safi](/group/idr/implementations/draft-ietf-idr-sr-policy-safi)
- 
-- [draft-ietf-idr-bgp-sr-segtypes-ext-01](/group/idr/implementations/draft-ietf-idr-bgp-sr-segtypes-ext)
 
- - [draft-ietf-idr-bgp-ls-sr-policy](/group/idr/implementations/draft-ietf-idr-te-lsp-distribution)
- - [draft-ietf-idr-bgp-ct](/group/idr/implementations/draft-ietf-idr-bgp-ct)
- - [draft-ietf-idr-bgp-car](/group/idr/implementations/draft-ietf-idr-bgp-car)
- 
 ## Implementation reports for Drafts at IESG
-- None 
+  - [draft-ietf-idr-vpn-prefix-orf](/group/idr/implementations/draft-ietf-idr-vpn-prefix-orf)
  
 ## Implementation report for Post-WG LC drafts  
  - [draft-ietf-idr-sdwan-edge-discovery-20](/group/idr/implementations/draft-ietf-idr-sdwan-edge-discovery)
 
  ## Implementation reports for drafts at WG LC 
-
-  - [draft-ietf-idr-vpn-prefix-orf](/group/idr/implementations/draft-ietf-idr-vpn-prefix-orf)
+  - [draft-ietf-idr-nhc](/group/idr/implementations/draft-ietf-idr-nhc)
   - [draft-ietf-idr-bgp-sr-policy-nrp](/group/idr/implementations/draft-ietf-idr-sr-policy-nrp)
   - [draft-ietf-idr-bgp-ls-sr-policy-nrp](/group/idr/implementations/draft-ietf-idr-bgp-ls-sr-policy-nrp)
+  - [draft-ietf-idr-rfc4360bis](/group/idr/implementations/draft-ietf-idr-rfc4360bis)
+  - [draft-ietf-idr-bgpls-inter-as-topology-ext](/group/idr/implementations/draft-ietf-idr-bgpls-inter-as-topology-ext)
+  - [draft-ietf-idr-linklocal-capability](/group/idr/implementations/draft-ietf-idr-linklocal-capability)
 
 ## Drafts report 2 implementations, but no implementation report. 
   - [draft-ietf-idr-flowspec-redirect-ip](/group/idr/implementations/draft-ietf-idr-flowspec-redirect-ip) 
@@ -45,7 +39,6 @@ dateCreated: 2023-03-13T05:29:13.348Z
 
 ## Drafts past WG LC awaiting 2 implementations
  - [draft-ietf-idr-entropy-label](/group/idr/implementations/draft-ietf-idr-entropy-label)
-  - [draft-ietf-idr-nhc](/group/idr/implementations/draft-ietf-idr-nhc)
   - [draft-ietf-idr-elc](/group/idr/implementations/draft-ietf-idr-elc)
  - [draft-ietf-idr-sr-policy-ifit](/group/idr/implementations/draft-ietf-idr-sr-policy-ifit)
  - [draft-ietf-idr-bgp-model](/group/idr/implementations/draft-ietf-idr-bgp-model)
@@ -64,7 +57,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
   - [draft-ietf-idr-5g-edge-service-metadata](/group/idr/implementations/draft-ietf-idr-5g-edge-service-metadata)
 
 ## Implementation Report for drafts at WG
-
+ - [draft-ietf-idr-te-lsp-distribution](/group/idr/implementations/draft-ietf-idr-te-lsp-distribution)
  - [draft-ietf-idr-best-external](/group/idr/implementations/draft-ietf-idr-best-external)
  - [draft-ietf-idr-flowspec-path-redirect](/group/idr/implementations/draft-ietf-idr-flowspec-path-redirect)  
  - [draft-ietf-idr-dynamic-cap](/group/idr/implementations/draft-ietf-idr-dynamic-cap)
@@ -80,8 +73,18 @@ dateCreated: 2023-03-13T05:29:13.348Z
 
 ---
 ## Implementation Reports for IDR RFC
- - [draft-ietf-idr-deprecate-as-set-confed-set](/group/idr/implementations/draft-ietf-idr-deprecate-as-set-confed-set) -  RFC9774 
- - [draft-ietf-idr-sendholdtimer implementations](/group/idr/implementations/draft-ietf-idr-sendholdtimer) - RFC9687
+ 
+- [RFC9830](/group/idr/implementations/draft-ietf-idr-sr-policy-safi)
+ 
+- [RFC983](/group/idr/implementations/draft-ietf-idr-bgp-sr-segtypes-ext)
+
+ - [RFC9832](/group/idr/implementations/draft-ietf-idr-bgp-ct)
+ - [RFC9871](/group/idr/implementations/draft-ietf-idr-bgp-car)
+ - [RFC9774](/group/idr/implementations/draft-ietf-idr-deprecate-as-set-confed-set) 
+ - [RFC9687](/group/idr/implementations/draft-ietf-idr-sendholdtimer) - RFC9687
+
+## implementation repots (old) 
+ 
  - [draft-ietf-idr-add-paths implementations](/group/idr/implementations/draft-ietf-idr-add-paths)
  - [draft-ietf-idr-as-migration implementations](/group/idr/implementations/draft-ietf-idr-as-migration)
  - [draft-ietf-idr-ls-distribution implementations](/group/idr/implementations/draft-ietf-idr-ls-distribution)

@@ -2,7 +2,7 @@
 title: Chairs
 description: 
 published: true
-date: 2025-12-10T11:31:16.570Z
+date: 2026-01-08T13:42:59.072Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T11:17:56.126Z
@@ -24,7 +24,7 @@ dateCreated: 2023-03-07T11:17:56.126Z
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
 | Shephered Review and Writeup | draft-ietf-pce-state-sync | Dhruv | update done, Dhruv to recheck |
-| Shephered Review and Writeup | draft-ietf-pce-flexible-grid | Julien | Authors to resolve Quan's comment; the I-D is currently expired. <br> 1 IPR response from Francesco Lazzeri missing, who is now retired - confirm with authors on how they wish to proceed|
+| Shephered Review and Writeup | draft-ietf-pce-flexible-grid | Julien | Review done, waiting for update|
 | WGLC assigned reviews | - | Dhruv | Dhruv to work with Andrews to setup wiki to track reviews |
 | Enhance GitHub for PCE WG | - | Dhruv/Andrew | - |
 | Enhance coordination [wiki](https://wiki.ietf.org/group/pce/coordination) | - | Dhruv | Andrew can help with it |
@@ -40,6 +40,7 @@ Items to talk to Ketan:
 ## Completed Tasks by Chairs
 |Item|Document|Responsible|Remarks|
 |---|---|---|---|
+| Shephered Review and Writeup | draft-ietf-pce-sr-bidir-path | Dhruv | Sent to IESG |
  Recheck AD review changes| draft-ietf-pce-sid-algo | Dhruv | Dhruv to check if any update to shepherd writeup is needed based on AD review |
 | WG Adoption|draft-dhody-pce-pcep-extension-pce-controller-p2mp|Julien|Open|
 | Add to Adoption queue | draft-dong-pce-pcep-nrp | Dhruv | Request from authors to prioritize |
