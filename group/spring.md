@@ -2,7 +2,7 @@
 title: SPRING WG - Source Packet Routing in Networking
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2026-01-13T16:51:05.583Z
+date: 2026-01-19T21:02:31.919Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
@@ -26,20 +26,6 @@ https://wiki.ietf.org/en/group/spring/SRCOMP_Design_Team
 Chairs notepad: https://wiki.ietf.org/en/group/spring/chairs_notepad
 
 ## WG Last Call requests
-* draft-ietf-spring-bfd-05
-   * [Responsible Chair: Alvaro]
-   * 2021-03-29 Authors asked for WGLC
-   * Waiting for the dependent MPLS WG draft to progress past WGLC
-   * Waiting on document update to include S-BFD https://mailarchive.ietf.org/arch/msg/spring/H-Sc9EM_0Hveli0FMpcuY_-BLYs/
-   * [IETF 117] The authors asked for WGLC.
-   * 2024-07-17: The Shepherd (Ketan Talaulikar) sent a review.
-   * 2025-01-06: Status: [WGLC ended](https://mailarchive.ietf.org/arch/msg/spring/J1bVdJsKfxTRhHOSau02xnNe-wQ/), but it was inconclusive.  Waiting for updates before a new WGLC.
-* draft-ietf-spring-resource-aware-segments
-  * [Responsible Chair: Alvaro]
-  * 2024-03-05 Authors sent request
-  * 2024-07-19 Not ready. A first set of comments sent on the list (Bruno) 
-  * 2025-09-25 Started [WGLC](https://mailarchive.ietf.org/arch/msg/spring/eapWIz3JcpzVLm7xPfSe30jaQUg/).
-  * 2025-10-14: The outcome of the WGLC is tied to the NRP-related Interim from Oct/14.  Will require a new WGLC after Operational Considerations are included.
 * draft-ietf-spring-sr-for-enhanced-vpn
   * [Responsible Chair: Alvaro]
   * 2024-03-05 Authors sent request
@@ -86,6 +72,7 @@ https://wiki.ietf.org/en/group/spring/WGLC_history
 * draft-jiang-spring-sr-policy-nrp
   * [Responsible Chair: Alvaro]
   * 2025-11-27 Request from authors
+  * 2026-01-19 [Call for Adoptopn](https://mailarchive.ietf.org/arch/msg/spring/-CSkBHYjXpuT4xg0gUdEeEhOBI4/)
 
   
   > History of WG Adoption

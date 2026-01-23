@@ -2,7 +2,7 @@
 title: Templates for Drafts specifing Tunnel Encapsulation Attribute additions (new Tunnels or SubTLVs ) 
 description: TEA Templates (tunnels and subTLVs)  
 published: true
-date: 2025-03-15T19:16:38.172Z
+date: 2026-01-19T12:54:36.492Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-06T13:02:07.632Z
@@ -18,9 +18,17 @@ particular tunnel.
 Authors of BESS and IDR draft have begun to expand on the 
 tunnel types and Sub-TLVs specifed in [RFC9012](https://datatracker.ietf.org/doc/rfc9012/).  
 
+Authors wishing to quickly pass the IDR review of 
+SR drafts that use tunnel enchapsulation should review the 
+checklist below:
+
+- [Tunnel-type Checklist](/group/idr/TEA-Checklist/Tunnel-TLV)
+- [Tunnel-subTLV Checklist](/group/idr/TE-Checklist/Tunnel-SubTLV)
+- [Tunnel-PMSI Checklist](/group/idr/TEA-Checklist/PMSI)
+
 The IDR chairs provide these templates for authors to 
 help them provide the necessary information for tunnels or 
-sub-TLVs. 
+sub-TLVs. T
 
 ## New Tunnel Types 
 [Tunnel-type template](/group/idr/TEA-templates/Tunnel)
@@ -35,9 +43,9 @@ sub-TLVs.
 ## Additional things to consider
 - Route Selection Criteria - related to TEA 
 
-## Reviews of TEA drafts 
-- [draft-ietf-idr-sr-policy-safi](/group/idr/TEA-review/draft-ietf-idr-sr-policy-safi)
-- [draft-ietf-idr-sdwan-edge-discovery](/group/idr/TEA-Review/draft-ietf-idr-sdwan-edge-discovery)
-- [draft-ietf-bess-multicast-controler](/group/idr/TEA-Review/draft-ietf-bess-multicast-controller)
-- [draft-ietf-bess-evpn-geneve](/group/idr/TEA-Review/draft-ietf-bess-evpn-geneve)
+## Upcoming Reviews of TEA drafts 
+- For BGP-LS or SR-Reviews see the reviews on the IDR wiki (add link)
+- Non BGP reviews are: 
+- [draft-ietf-bess-multicast-controler 
+- [draft-ietf-bess-evpn-geneve] 
  

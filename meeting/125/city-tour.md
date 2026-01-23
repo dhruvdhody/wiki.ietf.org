@@ -1,8 +1,8 @@
 ---
 title: IETF 125 City Tour Sign-up
-description: Thank you to our local supporter, HKIRC, for organizing a complimentary city tour of Hong Kong on 21 March, 2026. 
+description: Thank you to our local supporter, HKIRC, for organizing a complimentary city tour of Hong Kong on 21 March, 2026.
 published: true
-date: 2026-01-12T20:28:36.989Z
+date: 2026-01-19T20:23:19.965Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:33:34.919Z
@@ -26,6 +26,15 @@ The tour will go to three to five tourist attractions and provide lunch. There i
 | Greg Wood     | ghwood@staff.ietf.org       | |  
 | Yuqi Qiu     | qiuyuqi@mail.nankai.edu.cn       | |  
 | Mahesh Jethanandani | mjethanandani@gmail.com | 1+1 |
+| Rakesh Gandhi | rgandhi.ietf@gmail.com | Is there pickup from hotel in Shenzhen? |
+| Bron Gondwana | brong@fastmailteam.com | |
+| Rudi Matz | rudi@staff.ietf.org | |
+| Kevin Wang | kevin.wang@hpe.com | Need to catch a flight from HKG at 19:40; have a carry on luggage |
+| Jeffrey Zhang | zhaohui.zhang@hpe.com | |
+| Valery Smyslov | valery@smyslov.net | |
+| Mike Jones | michael_b_jones@hotmail.com | |
+| Aravind Babu Mahendrababu | aramahen@cisco.com | |
+| Kesara Rathnayake | kesara@staff.ietf.org | |
 
 
 

@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-01-14T00:57:10.156Z
+date: 2026-01-21T08:01:33.580Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -191,11 +191,56 @@ Current State of the Art for High Performance Wide Area Networks
 https://datatracker.ietf.org/doc/draft-kcrh-hpwan-state-of-art/
 
 
-### Second Project Here (replace me)
+### YANG2API
 - **Champions**
-Chongfeng Xie
+Chongfeng Xie (xiechf@chinatelecom.cn)
+Wenbin Yu (yuwb6@chinatelecom.cn)
+
 - **Project Info**
-YANG2API
+YANG2API refers to a mechanism that converts YANG data models into APIs. It enables operators to expose YANG-based network and service abstractions to external systems, thereby better supporting dynamic, short-lived operational needs or heterogeneous environments. When deploying YANG2API, it is important to explore how to efficiently integrate IETF YANG data models with externally developed frameworks, such as TMF640, in order to improve consistency and reduce integration friction.
+
+- **Related documents**
+Onions Problem Statement
+https://datatracker.ietf.org/doc/draft-xie-onions-problem-statement/
+
+
+### YANG Data Model for Network Inventory (IVY)
+- **Champions**
+Yanxia Tan (tanyx11@chinaunicom.cn)
+Haomian Zheng (zhenghaomian@huawei.com)
+
+- **Project Info**
+Network inventory management is a fundamental functional block in the overall network management. It is a critical part for ensuring that the network remains healthy, well planned, and maintained appropriately to meet the operational objectives. Also, it allows operators to keep track of all the components deployed in their networks, including relevant embedded software and hardware. The scope of this project is to evaluate the implementation of ivy WG data models. The base model is assumed to be technology-agnostic, and could be augmented with application- and technology-specific details.
+
+- **Hackathon Plan**
+1.Inventory model verification, verifying the usability and interoperability of the model specified in the draft.
+2.Learn and discuss other ivy draft and data models related to network inventory management.
+
+- **Related documents**
+A Base YANG Data Model for Network Inventory
+https://datatracker.ietf.org/doc/draft-ietf-ivy-network-inventory-yang/
+
+
+### SRv6 for Inter-Layer Network Programming
+- **Champions**
+Minxue Wang (wangminxue@chinamobile.com )
+Junfeng Zhao (zhaojunfeng@caict.ac.cn )
+Jie Dong (jie.dong@huawei.com )
+Ran Chen (chen.ran@zte.com.cn )
+Junfang Wang (wjf@fiberhome.com )
+
+- **Project Info**
+SRv6 END.IL is a variant of the SRv6 End behavior, an SRv6 END.IL SID steers packets to a remote network node via an underlay network connection. SRv6 END.IL behavior can be used for SRv6 based inter-layer path programming and traffic engineering, so as to provide differentiated and guaranteed performance for different services. 
+
+- **Hackathon Plan**
+1.Learn about the background and key protocol mechanism of SRv6 END.IL;
+2.Demonstrate multi-vendor interworking networking and perform testing for SRv6 END.IL;
+3.Validate service connectivity and performance guarantee in SRv6 END.IL interworking scenarios;
+4.Review the current SRv6 END.IL draft, propose necessary updates and future related work in IETF.
+
+- **Related documents**
+SRv6 for Inter-Layer Network Programming
+https://datatracker.ietf.org/doc/draft-ietf-spring-srv6-inter-layer-programming/
 
 ---
 
