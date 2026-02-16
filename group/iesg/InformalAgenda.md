@@ -2,13 +2,13 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-01-16T18:15:31.365Z
+date: 2026-02-13T19:15:35.985Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - January 29, 2026
+# Informal Telechat - February 26, 2026
 
 There **WILL NOT** be a meeting on this date.
 
@@ -42,13 +42,9 @@ Note that this page is public.
 
 
 
-
 ### Document Discussions
 
-
-
 ### Management Issues
-
 
 ### WG News 
 

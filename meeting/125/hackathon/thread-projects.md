@@ -1,23 +1,23 @@
 ---
-title: IETF 124 Hackathon Thread Projects
+title: IETF 125 Hackathon Thread Projects
 description: 
 published: true
-date: 2026-02-11T22:50:15.135Z
+date: 2026-02-11T22:53:07.398Z
 tags: 
 editor: markdown
-dateCreated: 2025-07-31T17:46:51.454Z
+dateCreated: 2026-02-10T19:41:05.916Z
 ---
 
-# IETF 124 Hackathon Thread Projects
+# IETF 125 Hackathon Thread Projects
 
-IETF 124 Montréal, November 2025.
+IETF 125 Shenzhen, March 2026.
 
-To avoid taking up too much space on the [main Hackathon page](/meeting/124/hackathon), Thread projects are listed separately here.
+To avoid taking up too much space on the [main Hackathon page](/meeting/125/hackathon), Thread projects are listed separately here.
 
 ### Low-Power Wireless IPv6 Networking with Thread
 
 - **Champion**
-François Michel (Apple)
+Stuart Cheshire (Apple)
 
 - **Thread Overview**
 
@@ -29,10 +29,7 @@ Below is a partial list of project ideas. Other ideas are welcome and encouraged
 For communication among Thread Hackathon participants, particularly remote participants, in the [IETF Slack Workspace](https://join.slack.com/t/ietf/shared_invite/zt-2tp4eenlx-5XWQGCglltuzsxpwsQm_tw) we have the [#team-thread-hackathon](https://ietf.slack.com/archives/C07DE1M657E) channel.
 
 - **Participants**
-François Michel (Apple)
 Stuart Cheshire (Apple)
-Ted Lemon (Apple)
-Esko Dijk (IoTconsultancy.nl)
 
 - **Project Info**
 

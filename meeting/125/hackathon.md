@@ -2,7 +2,7 @@
 title: IETF 125 Hackathon
 description: 
 published: true
-date: 2026-01-21T08:01:33.580Z
+date: 2026-02-14T13:00:31.345Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T19:36:14.882Z
@@ -173,9 +173,13 @@ For inspiration and examples of previous Hackathon projects see the [previous Ha
 - **Champions**
 Quan Xiong (xiong.quan@zte.com.cn)
 Daniel King (d.king@lancaster.ac.uk)
-Tim Chown (tim.chown@jisc.ac.uk)
+Kehan Yao (yaokehan@chinamobile.com)
+Junfeng Zhao (zhaojunfeng@caict.ac.cn)
+
 - **Project Info**
 High-performance WAN (HP-WAN) is designed specifically to meet the high-speed, low-latency, and high-capacity needs of data-intensive applications and enable the host-and-network collaboration for the high-speed and high-throughput data transmission, coupled with fast completion time.
+
+Thanks to Tim Chown for Hackathon input. 
 
 - **Hackathon Plan**
 1.HPWAN deployment on topologies for public networks and service scenarios based on the HP-WAN framework
@@ -190,18 +194,69 @@ https://datatracker.ietf.org/doc/draft-xhy-hpwan-framework/
 Current State of the Art for High Performance Wide Area Networks
 https://datatracker.ietf.org/doc/draft-kcrh-hpwan-state-of-art/
 
+### Post-Quantum Cryptography (PQC) in X.509, Signatures, KEMs, CMS and protocols
+- **Champion(s)**
+John Gray (john.gray@entrust.com)
+Daniel Van Geest (Daniel.vangeest@cryptonext-security.com)
+Mike Ounsworth (mike.ounsworth@crypticforest.ca
+Jean-Pierre Fiset (jp@crypto4a.com)
+Massimiliano Pala (massimiliano.pala@wellsfargo.com)
+
+
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/html/rfc9881
+https://datatracker.ietf.org/doc/draft-ietf-lamps-kyber-certificates/11/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-sigs/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-kem/
+https://datatracker.ietf.org/doc/rfc9629/
+https://datatracker.ietf.org/doc/rfc9810/
+https://www.ietf.org/id/draft-ietf-lamps-certdiscovery/
+https://datatracker.ietf.org/doc/rfc9909/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-cms-composite-sigs/
+
+- **Project Info**
+Test interoperability of Post Quantum algorithms in x.509 structures (Certificates, keys, CMS and other drafts).   This project started in November 2022 and continues to evolve.  We currently have github automated tooling that automatically tests submitted artifacts allowing implementations to get immediate feedback on their compatibility. This allows us to test interoperability between different algorithm implementations, gain experience using these new algorithms, and provide feedback to the standards groups about practical usage.
+A good starting place is our Github repository: https://github.com/IETF-Hackathon/pqc-certificates
+
+For information on OIDs used to create interoperable structures, consult: https://github.com/IETF-Hackathon/pqc-certificates/blob/master/docs/oid_mapping.md
+
+At IETF 125, we plan to add more automation and others are invited to test interoperability.  Also, the composite signatures recently had IANA OIDs assigned, so a number of people are interested in testing composite signatures interoperability.   
+
 
 ### YANG2API
 - **Champions**
 Chongfeng Xie (xiechf@chinatelecom.cn)
+Sicong Ma (masc@chinatelecom.cn)
 Wenbin Yu (yuwb6@chinatelecom.cn)
+Jibin Sun (sunjb@chinatelecom.cn)
+Guozhen Dong (donggz@chinatelecom.cn)
+Linda Dunbar (linda.dunbar@futurewei.com)
+Bo Wu (lana.wubo@huawei.com)
 
 - **Project Info**
-YANG2API refers to a mechanism that converts YANG data models into APIs. It enables operators to expose YANG-based network and service abstractions to external systems, thereby better supporting dynamic, short-lived operational needs or heterogeneous environments. When deploying YANG2API, it is important to explore how to efficiently integrate IETF YANG data models with externally developed frameworks, such as TMF640, in order to improve consistency and reduce integration friction.
+YANG2API refers to a mechanism that converts YANG data models into APIs. It enables operators to expose YANG-based network and service abstractions to external systems, thereby better supporting dynamic, short-lived operational needs or heterogeneous environments. To improve consistency and reduce integration friction,  it is important to explore how to efficiently integrate IETF YANG data models with externally developed frameworks via YANG2API, such as TMF640. Based on the YANG2API tool jointly developed, this project will investigate the effectiveness of transforming existing mainstream network and service abstractions into APIs, discuss and evaluate identified issues in the process with partners. The purpose of this project is to explore mature patterns for exposing YANG-based abstractions to external applications.
+
+- **Hackathon Plan**
+1.Design and implement a lightweight YANG2API environment engine that automatically generates directly callable upper-layer APIs by parsing YANG models defined in IETF standards.
+2.Develop a demonstration program to showcase the automated conversion and provisioning of L3VPN and other models, verify the generated APIs by invoking them in Swagger UI, and observe the real-time generation of Netconf messages in the backend.
 
 - **Related documents**
 Onions Problem Statement
 https://datatracker.ietf.org/doc/draft-xie-onions-problem-statement/
+RFC8299 - YANG Data Model for L3VPN Service Delivery
+https://datatracker.ietf.org/doc/rfc8299/
+RFC8466 - A YANG Data Model for Layer 2 Virtual Private Network (L2VPN) Service Delivery
+https://datatracker.ietf.org/doc/rfc8466/
+RFC 9182 - A YANG Network Data Model for Layer 3 VPNs
+https://datatracker.ietf.org/doc/rfc9182/
+RFC9291 - A YANG Network Data Model for Layer 2 VPNs
+https://datatracker.ietf.org/doc/rfc9291/
+RFC 9833 - A Common YANG Data Model for Attachment Circuits
+https://datatracker.ietf.org/doc/rfc9833/
+RFC 9834 - YANG Data Models for Bearers and Attachment Circuits as a Service (ACaaS)
+https://datatracker.ietf.org/doc/rfc9834/
+RFC 9835 - A Network YANG Data Model for Attachment Circuits
+https://datatracker.ietf.org/doc/rfc9835/
 
 
 ### YANG Data Model for Network Inventory (IVY)
@@ -242,7 +297,210 @@ SRv6 END.IL is a variant of the SRv6 End behavior, an SRv6 END.IL SID steers pac
 SRv6 for Inter-Layer Network Programming
 https://datatracker.ietf.org/doc/draft-ietf-spring-srv6-inter-layer-programming/
 
+
+### Validate YANG-Push to Message Broker End-To-End Data Processing Chain
+- **Champion(s)**
+Thomas Graf (thomas.graf @ swisscom.com)
+Wanting Du (wanting.du @ swisscom.com)
+Ahmed Elhassany (ahmed.elhassany @ swisscom.com)
+Leonardo Rodoni  (leonardo.rodoni @ swisscom.com)
+Rafael Julio (rafael.julio @ swisscom.com)
+Benoit Claise (benoit @ everything-ops.net)
+Paolo Lucente  (paolo @ pmacct.net)
+Rob Wilton (rwilton @ cisco.com)
+Scott Huang (scohuang @ cisco.com)
+Daniel Voyer (davoyer @ cisco.com)
+Sivakumar Sundaravadivel (sivakuma @ ciena.com)
+
+- **Draft Specifications Message Broker**
+https://datatracker.ietf.org/doc/html/draft-ietf-nmop-yang-message-broker-integration
+https://datatracker.ietf.org/doc/html/draft-ietf-nmop-message-broker-telemetry-message
+https://datatracker.ietf.org/doc/html/draft-ietf-netmod-yang-anydata-validation
+
+- **Draft Specifications YANG-Push**
+https://datatracker.ietf.org/doc/html/rfc8639
+https://datatracker.ietf.org/doc/html/rfc8641
+https://datatracker.ietf.org/doc/html/rfc9196
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-notif-envelope
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-yang-notifications-versioning
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-udp-notif
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-distributed-notif
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-yp-transport-capabilities
+
+
+- **Project Info**
+https://www.network-analytics.org/yp/, validate and verify
+
+- 5 YANG-Push Publishers
+- 2 YANG-Push Receivers
+- 2 YANG-Push Network Telemetry Message
+- 1 YANG Message Broker Producer and Schema Registry
+- 3 YANG Message Broker Consumers
+
+implementation in the area of YANG data integration automation. Subscribe to YANG data on YANG-Publisher, obtain and register all YANG modules necessary to build YANG schema tree, register YANG schemas to Schema Registry and verify YANG notifications against scheme trees and produce and consume from Message Broker.
+
+- **Repository**
+https://github.com/network-analytics/ietf-network-analytics-document-status/tree/main/125/Hackathon
+https://github.com/NetGauze/NetGauze/releases/tag/v0.9.1
+https://github.com/pmacct/pmacct
+https://github.com/CESNET/libyang/releases/tag/v4.2.2
+https://github.com/CESNET/libyang/compare/master...devel
+
+
+### YANG Message Keys and YANG-Push Message Broker Topic Naming PoC
+- **Champion(s)**
+Thomas Graf (thomas.graf @ swisscom.com)
+Wanting Du (wanting.du @ swisscom.com)
+Maxence Younsi (maxence.younsi @ insa-lyon.fr)
+Pierre Francois (pierre.francois @ insa-lyon.fr)
+
+- **Draft Specifications Message Broker**
+https://datatracker.ietf.org/doc/html/draft-netana-nmop-yang-message-broker-message-key
+https://datatracker.ietf.org/doc/html/draft-netana-nmop-message-broker-bmp-telemetry-msg
+https://datatracker.ietf.org/doc/html/draft-ietf-nmop-message-broker-telemetry-message
+https://datatracker.ietf.org/doc/html/draft-ietf-nmop-yang-message-broker-integration
+
+- **Project Info**
+https://www.network-analytics.org/yp/, proof of concept code on generating
+
+- YANG Message Keys
+- YANG-Push Message Broker Topic Naming
+
+from YANG-Push example subscriptions. Document what works and what won't and how it could be addressed.
+
+- **Repository**
+https://github.com/network-analytics/ietf-network-analytics-document-status/tree/main/125/Hackathon
+
+### DKIM2
+- **Champions**
+Bron Gondwana <brong@fastmailteam.com>
+- **Project Info**
+Continuing DKIM2 work, following on from the last hackathon.
+- **Repository** -
+https://github.com/dkim2wg/interop
+
+
+### Agent Communication Framework for Network AIOps
+- **Champions**
+Qiong Sun (sunqiong@chinatelecom.cn)
+Xin Song (songx18@chinatelecom.cn)
+Yu Fu (fuy44@chinatelecom.cn)
+Jiajun Li (lijj124@chinatelecom.cn)
+
+- **Project Info**
+As the development of large model and agent technology, it is a trend for multi-agent collaboration to solve complex problems.  This project proposes a multi-agent communication and collaboration framework that facilitates the coordination of heterogeneous multi-agents and supports intelligent automatic network operations and maintenance (AIOps).  Its architecture includes an AI gateway and an Agent Name Service, along with capabilities such as monitoring and tracking, as well as security protection.  This Agent Communication Framework provides a comprehensive solution for multi-agent communication and collaboration, laying the foundation for future interactive, scalable, secure, and controllable multi-agent network intelligent operations and maintenance.
+
+- **Hackathon Plan**
+1.A multi-agent communication and collaboration framework includes an AI gateway and an Agent Name Service specified in the draft.
+2.Use cases for multi-agent communication and collaboration to support intelligent automatic network operation and maintenance.
+
+- **Related documents**
+Agent Communication Framework for Network AIOps
+https://datatracker.ietf.org/doc/draft-fu-nmop-agent-communication-framework/
+
+### Agent Gateway for Dynamic Multi-agent Secured Collaboration
+
+- **Champions**
+Sicong Ma (masc@chinatelecom.cn)
+Jibin Sun (sunjb@chinatelecom.cn)
+Xing Zhang (hszhang@bupt.edu.cn)
+Zhuoran Li (lizr9@chinatelecom.cn)
+Wei Wang (wangw36@chinatelecom.cn)
+
+- **Project Info**
+With the rapid development of agent-related technologies, agent communication is evolving toward heterogeneity and multi-agent collaboration, giving rise to requirements such as on-demand access, dynamic networking and elastic collaboration for agents. To meet the requirements, this project proposes an agent gateway based on the dynamic multi-agent secured collaboration framework, which supports capabilities including automatic discovery, registration, capability synchronization, secure communication, and flexible scalability for agents. The core objective of this project is to explore a feasible solution for inter-agent communication, laying a foundation for the advancement of agent communication technologies.
+
+- **Hackathon Plan**
+1.A Dynamic Multi-agent Secured Collaboration Infrastructure Architecture from an infrastructure perspective. For detailed descriptions, please see the draft in related documents.
+2.A demo for dynamic multi-agent secured collaboration gateway.
+
+- **Related documents**
+Dynamic Multi-agent Secured Collaboration Infrastructure Architecture
+https://datatracker.ietf.org/doc/html/draft-li-dmsc-inf-architecture-03
+
+
+### Optimizing Agent Context Interaction
+- **Champions**
+Zeze Chang (changzeze@huawei.com)
+Shuping Peng (pengshuping@huawei.com)
+
+- **Project Info**
+Multi-agent collaboration has been widely studied as an effective approach for addressing complex and multi-turn interactive tasks. However, in current agentic workflows, contextual information is often exchanged in an unstructured and redundant manner, leading to excessive token consumption, increased execution latency, and reduced task completion success rates, especially in multi-step and multi-agent scenarios. The project focuses on designing and experimenting with structured agent context interaction mechanisms, including precise context distribution, context isolation among agents, and fine-grained task and progress management. A master–invoked agent interaction scheme is expected to demonstrate how task-related contexts can be selectively delivered to invoked agents and incrementally updated during task execution.
+
+- **Hackathon Plan**
+1.	Design and implement a multi-agent context interaction framework based on the structured context schemas defined in the draft.
+2.	Develop a demo to demonstrate the effectiveness of the proposed agent context interaction mechanism.
+
+- **Related documents**
+to be released
+
+### Agent Communication Gateway for Semantic Routing and Working Memory
+- **Champions**
+Xiaohui Xie (xiexiaohui@tsinghua.edu.cn)
+Zian Wang (zianwang@bupt.edu.cn)
+Tianshuo Hu (huts22@mails.tsinghua.edu.cn)
+- **Project Info**
+As multi-agent systems are increasingly used for complex, multi-step interactive tasks, the way agents exchange context has become a key bottleneck: in many current agentic workflows, context is transmitted in an unstructured, redundant, and broadcast-like manner, which causes excessive token consumption, higher latency, and lower task success rates—especially when multiple agents are orchestrated across multiple steps. This project proposes and prototypes an Agent Communication Gateway that sits between agents and tools/services, providing two core capabilities: Semantic Routing, which intelligently routes messages/contexts to the most relevant agent(s) or tool endpoints based on semantic intent, task state, and routing policies to reduce unnecessary fan-out and duplicated context delivery; and Gateway Memory, which maintains structured, scoped memory (e.g., per-task / per-agent / per-session) to support selective context retrieval, context compression/summarization, and incremental updates, enabling agents to receive only the context they need at each step while preserving long-horizon task continuity.
+
+- **Hackathon Plan**
+    1. Design and implement a lightweight agent communication gateway with (a) semantic routing policies and (b) structured working memory.
+    2. Integrate the gateway into a simple multi-agent workflow and validate that context delivery becomes more selective and less redundant.
+    3. Develop a demo to showcase improvements such as reduced token usage, reduced latency, and improved task completion stability.
+- **Related documents**
+To be released
+
+### IPsec and IKEv2
+- **Champions**
+Valery Smyslov (valery@smyslov.net)
+- **Project Info**
+Interoperability testing of new IKEv2 extensions:
+-- Downgrade Prevention for the Internet Key Exchange Protocol Version 2 (IKEv2)
+-- Optimized Rekeys in the Internet Key Exchange Protocol Version 2 (IKEv2)
+-- Separate Transports for IKE and ESP
+-- Post-quantum Hybrid Key Exchange with ML-KEM in the Internet Key Exchange Protocol Version 2 (IKEv2)
+-- Post-quantum Hybrid Key Exchange in IKEv2 with FrodoKEM
+-- Using IKE Fragmentation for Large Messages
+-- IKEv2 Support for Child SA PFS Policy Information
+-- A Larger Internet Key Exchange version 2 (IKEv2) Payload
+-- Using Classic McEliece in the Internet Key Exchange Protocol Version 2 (IKEv2)
+- **Specifications**
+-- https://datatracker.ietf.org/doc/draft-ietf-ipsecme-ikev2-downgrade-prevention/
+-- https://datatracker.ietf.org/doc/draft-ietf-ipsecme-ikev2-sa-ts-payloads-opt/
+-- https://datatracker.ietf.org/doc/draft-ietf-ipsecme-ikev2-reliable-transport/
+-- https://datatracker.ietf.org/doc/draft-ietf-ipsecme-ikev2-mlkem/
+-- https://datatracker.ietf.org/doc/draft-wang-ipsecme-hybrid-kem-ikev2-frodo/
+-- https://datatracker.ietf.org/doc/draft-smyslov-ipsecme-ikev2-fragm-large-msg/
+-- https://datatracker.ietf.org/doc/draft-pwouters-ipsecme-child-pfs-info/
+-- https://datatracker.ietf.org/doc/draft-nir-ipsecme-big-payload/
+-- https://datatracker.ietf.org/doc/draft-smyslov-ipsecme-ikev2-mceliece/
+
+### <a id="Thread"></a>Low-Power Wireless IPv6 Networking with Thread *
+- **Champion**
+Stuart Cheshire &lt;cheshire@apple.com&gt;
+
+- **Thread Overview**
+
+  [Thread](https://en.wikipedia.org/wiki/Thread_(network_protocol)) is a specification for how to carry IPv6 datagrams over a self-configuring mesh of low-power [IEEE 802.15.4](https://en.wikipedia.org/wiki/IEEE_802.15.4) wireless links. [Stuart Cheshire](https://www.threadgroup.org/thread-group#board&officers:~:text=Stuart%20Cheshire) gave a [brief presentation about Thread](https://www.youtube.com/watch?v=DplqxrH6Xbg&t=2148s) at the [IETF 119 IAB Open meeting in Brisbane](https://datatracker.ietf.org/meeting/119/proceedings#iab). The [Thread specification](https://www.threadgroup.org/support#specifications) is developed and published by the [Thread Group](https://www.threadgroup.org/). There are several independent implementations of Thread, the main one being the [OpenThread open source project](https://openthread.io/). This Hackathon event is open to all — Thread Group membership is *not* required, though of course Thread Group members are also welcome to participate.
+
+- **Participants and Project Info**
+  - To avoid taking up too much space on the main Hackathon page, Thread participants and projects are listed separately on the [Thread Projects page](/meeting/125/hackathon/thread-projects).
+
+
+### Agent Protocol Security
+- **Champions**
+Song Yurong (songyurong1@huawei.com)
+Foo Chuan Ann (foo.chuan.ann1@h-partners.com)
+- **Project Info**
+In recent years, AI agents have witnessed remarkable progress and are increasingly recognized as a pivotal force in various fields. Regarding agent protocols, they play a crucial role in enabling seamless communication between agents, external tools, and data sources. However, with the development of AI agents and their protocols, security has become a pressing concern.
+We continue to work on to implement and test security aspects of AI agent protocol. This hackathon, we test authorisation procedures on Model Context Protocol.
+- **Agent Protocol Background**
+https://modelcontextprotocol.io/
+https://www.a2aprotocol.org/
+- **Related Document**
+https://www.ietf.org/archive/id/draft-song-oauth-ai-agent-authorization-00.html
+
 ---
+
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 

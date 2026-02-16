@@ -1,39 +1,39 @@
 ---
-title: IETF 125 Departure Coordination
+title: IETF 126 Departure Coordination
 description: 
 published: true
-date: 2026-02-05T08:54:27.850Z
+date: 2026-01-27T20:47:46.179Z
 tags: 
 editor: markdown
-dateCreated: 2025-11-18T18:50:08.280Z
+dateCreated: 2026-01-27T20:47:46.179Z
 ---
 
-# IETF 125 Departure Coordination
+# IETF 126 Departure Coordination
 For ease of taxi sharing back to the airport. The "Departing From" field should detail your hotel. 
 
-## Wednesday, March 18, 2026
+## Wednesday, July 22, 2026
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DEPARTING FROM | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
 |      |        |      |       |         |          |             |       |
 |      |        |      |       |         |          |             |       |
 
-## Thursday, March 19, 2026
+## Thursday, July 23, 2026
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DEPARTING FROM | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
 |   |      |       |     |         |          |     |       |       |
 |      |        |      |       |         |          |             |       |
 
-## Friday, March 20, 2026
+## Friday, July 24, 2026
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DEPARTING FROM | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-|18:55 |  TG639 |Frode Kileng|frodek@tele.no|Hongkong|| Shangri-La|       |
+|      |        |      |       |         |          |             |       |
 |      |        |      |       |         |          |             |       |
 
 
-## Saturday, March 21, 2026
+## Saturday, July 25, 2026
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DEPARTING FROM | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
@@ -41,14 +41,14 @@ For ease of taxi sharing back to the airport. The "Departing From" field should 
 |      |        |      |       |         |          |             |       |   |             |       |
 
 
-## Sunday, March 22, 2026
+## Sunday, July 26, 2026
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DEPARTING FROM | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
 |      |        |      |       |         |          |             |       |
 |      |        |      |       |         |          |             |       |  |             |       |
 
-## Monday, March 23, 2026
+## Monday, July 27, 2026
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DEPARTING FROM | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|

@@ -2,7 +2,7 @@
 title: IETF 125 City Tour Sign-up
 description: Thank you to our local supporter, HKIRC, for organizing a complimentary city tour of Hong Kong on 21 March, 2026.
 published: true
-date: 2026-01-19T20:23:19.965Z
+date: 2026-02-09T17:37:17.134Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:33:34.919Z
@@ -35,11 +35,33 @@ The tour will go to three to five tourist attractions and provide lunch. There i
 | Mike Jones | michael_b_jones@hotmail.com | |
 | Aravind Babu Mahendrababu | aramahen@cisco.com | |
 | Kesara Rathnayake | kesara@staff.ietf.org | |
-
-
-
-
-
+| Jéferson Campos Nobre | jcnobre@inf.ufrgs.br | |
+| Julien Maisonneuve | julien.maisonneuve@nokia.com | |
+| Ondřej Surý | ondrej@sury.org | |
+| Michael Takeuchi | michael.takeuchi@binus.ac.id | |
+| Dmitry Kuznetsov | mail@dmitry.fyi | |
+| Christian Giese | christian@rtbrick.com | |
+| Benno Overeinder | benno@nlnetlabs.nl | |
+| Willem Toorop | willem@nlnetlabs.nl | |
+| Karen O'Donoghue | kodonog@pobox.com | |
+| Mališa Vučinić | malisa.vucinic@inria.fr | 2 participants |
+| Yingzhen Qu | yingzhen.ietf@gmail.com | |
+| Stuart Cheshire | cheshire@apple.com | |
+| Maggie Cheshire | m.a.glanowska@gmail.com | |
+| Michelle Cotton | mcotton@amsl.com | |
+| K Tirumaleswar Reddy | kondtir@gmail.com | Need to be back to hotel in Shenzhen by 7:00 PM to catch flight | 
+| Laura Nugent | lnugent@amsl.com | |
+| Ryan Cross | rcross@amsl.com | |
+| Zaheduzzaman Sarker | zahed.sarker.ietf@gmail.com| |
+| Henk Birkholz | henk.birkholz@ietf.contact | |
+| Ronaldo A. Ferreira | ronaldo.ferreira@ufms.br | | 
+| Pedro Marcos | pbmarcos@furg.br | | 
+| Vishnu Pavan Kumar Beeram | vishnupavan.ietf@gmail.com | | 
+| Johanes Sebastian Siddhadeza | johanes.siddhadeza@gmail.com | 
+| Abdul Wasey | awasey8905@gmail.com | | 
+| Sheikh Arzan Ashraf | arzanashraf03@gmail.com | |
+| Jean Francois Queralt | jfqueralt@theiofoundation.org | |
+| Irena Vanessa Gunawan | irena.gunawan@theiofoundation.org | |
 
 
 

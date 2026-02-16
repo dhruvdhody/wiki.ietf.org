@@ -2,19 +2,19 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-01-22T16:41:12.332Z
+date: 2026-02-12T22:10:43.107Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2026-01-28, 16:00-17:00 UTC (1 hour)
+# IAB Formal Business Meeting Agenda: 2026-02-18, 14:00-16:00 UTC (2 hours)
 
-## There WILL NOT be a meeting on 2026-01-28
+## There WILL be a meeting on 2026-02-18
 
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=md21c75a559940e947744750a8d8bdd26
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m2cf7953be787792c45da617722f8a0c1
 
 
 ## Agenda
@@ -25,25 +25,78 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 
 
-### 1. Topic: IAB Statement on Appeals (Jason, Dhruv)
+### 1. Administrivia (Cindy) 
+
+#### 1.1. Attendance
+
+#### 1.2. Agenda bash and announcements
+
+#### 1.3. Meeting Minutes
+
+For approval
+
+-  2026-01-14 business meeting - (submitted 2026-01-14) 
+
+
+### 2. Monthly Reports (Liaisons, etc.)
+
+ - IRTF Chair
+ - IESG Liaison
+ - ICANN Board Liaison
+ - IANA Liaison
+ - IAB Outreach Coordinator
+ - Liaison Coordinators
+
+
+### 3. Wiki updates (Dhruv)
+
+ - Workshop (Diff: https://github.com/dhruvdhody/wiki.ietf.org/commit/781322724fe58f2fba78f058fca79e4fa487066f)
+ - Guidance for External Events (GitHub: https://github.com/dhruvdhody/wiki.ietf.org/blob/main/group/iab/external.md)
 
 
 
-### 2. Executive Session: Next Steps on ISOC BOT Appontment
+### 4. IAB Meetings at IETF 125
 
-Note: Nominations close 2026-01-27
+  Goal: Confirm IAB Open Chairs
+
+  Goal: Brainstorm potential topics for IAB Business Meetings
+  
+  Wiki: https://wiki.ietf.org/en/group/iab/Agenda125
+
+
+### 5. 2026 IAB Retreat
+
+  Goal: Update on potential dates and locations
+
+
+### 6. Review of Open Issues for Responsibilities (Tommy)
+
+ GitHub: https://github.com/intarchboard/responsibilities/issues
+
+
+### 7. Executive Session: ISOC BoT Appointment (Cindy)
+
+  GitHub: https://github.com/intarchboard/responsibilities/issues/72
+
+  Goal: Update on nominations status, organize interviews
+
+
+
+
 
 
 ## Regrets
 
-* Mirja (until Feb 2)
+
+
 
 
 ## Topics for Future Informal Meetings
 
-- ETSI liaison discussion
-- WBA liaison discussion
+### ETSI liaison discussion
+### WBA liaison discussion
 
+### ICANN85 Outreach Planning (Dhruv, Warren)
 
 
 ## Upcoming IAB Meetings
@@ -51,14 +104,11 @@ Note: Nominations close 2026-01-27
 See [2025-2026 Schedule](https://wiki.ietf.org/group/iab/2025_Schedule)
 
 
-- 2026-01-28 16:00-17:00 UTC	Informal Meeting (Reserved)
-- 2026-02-04 23:00-00:00 UTC	Informal Meeting (Reserved)
-- 2026-02-11 07:00-08:00 UTC	Informal Meeting (Reserved)
-
 - 2026-02-18 Feb 2026  14:00-16:00 UTC	Formal Board Meeting
     - ISOC BoT vote
 
-- 2026-02-25 16:00-17:00 UTC	Informal Meeting (Reserved)
+- 2026-02-25 16:00-17:00 UTC	Informal Meeting 
+    - IAB Member Onboarding and Review
 - 2026-03-04 23:00-00:00 UTC	Informal Meeting (Reserved)
     
     
