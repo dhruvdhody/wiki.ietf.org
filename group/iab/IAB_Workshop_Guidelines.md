@@ -29,7 +29,7 @@ The following factors need to be considered while deciding the possible format o
 * **Next Steps & Key Takeaways:** The PC should work toward documenting key takeaways at the conclusion of the workshop, including points where there was broad agreement as well as areas where views diverged. Capturing both helps provide an accurate record of the discussion and supports identifying concrete follow-up actions or next steps after the workshop.
 * **Workshop report and blog post:** Following the workshop, the PC should report back to the IAB with initial impressions. Further, a report summarizing the discussions, findings, and recommendations is published as an IAB internet draft, with the goal of producing an initial version in a timely manner, typically within one month of the workshop. These reports contribute to the broader community's understanding of the issues explored during the workshop. In addition, a short IETF blog post should also be published shortly afterwards. 
 
-*Note: If the IETF Notewell applies, the location of an IETF meeting does not limit the likely participants, attendance is not restricted by position papers and remote participation, and broad community involvement is encouraged, then proposing a BoF session at an IETF meeting might be better.*
+*Note: IAB workshops are most appropriate when focused, curated discussion or preparatory exploration is needed. If the intent is instead wide, open participation and expectations similar to standard IETF process, proposing a BoF session at an IETF meeting is typically the more appropriate path.*
 
 ## Role of the Workshop Program Committee (PC)
 
