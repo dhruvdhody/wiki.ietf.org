@@ -52,7 +52,7 @@ The following considerations may help inform decisions about participating in ex
 - The nature of participation does not create confusion about IETF sponsorship or endorsement
 - The purpose of the invitation and expected contribution are clear
 
-Judgment and context are expected to play a central role; rigid checklists are not intended. Reaching out to full IAB for transparency and advice when in doubt. 
+Judgment and context are expected to play a central role; rigid checklists are not intended. Reaching out to the full IAB for transparency and advice when in doubt. 
 
 ### Individual Judgment and Case-by-Case Decisions
 
@@ -68,9 +68,9 @@ When appropriate, the following disclaimer (or similar language) may be used:
 
 To support consistency and visibility:
 
-- Leadership participation in external events should be recorded in the IETF outreach tracker
+- Leadership participation in external events should be recorded in the [IETF outreach tracker](https://docs.google.com/document/d/1qgWjdWhjXaJL6pqK2PKarTs4uLzomNKL-sZcAyNknOY/edit?tab=t.0#heading=h.s95jw01smky8)
 - Sharing outcomes, slides, or brief summaries is encouraged where appropriate
-- Outreach coordinators may help maintain visibility across activities
+- The outreach coordinator may help maintain visibility across activities
 
 ## High Visibility Engagements
 
