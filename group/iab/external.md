@@ -20,7 +20,7 @@ General guidance for speaking about the IETF at external events applies broadly 
 
 - https://chairs.ietf.org/en/speaking
 
-Participants in external events are expected to be familiar with it.
+Participants in external events should be familiar with them.
 
 ## Principles
 
@@ -68,9 +68,9 @@ When appropriate, the following disclaimer (or similar language) may be used:
 
 To support consistency and visibility:
 
-- Leadership participation in external events should be recorded in the IETF outreach tracker
+- Leadership participation in external events should be recorded in the [IETF outreach tracker](https://docs.google.com/document/d/1qgWjdWhjXaJL6pqK2PKarTs4uLzomNKL-sZcAyNknOY/edit?usp=sharing)
 - Sharing outcomes, slides, or summaries is encouraged where appropriate
-- Outreach coordinators may help maintain visibility across activities
+- The outreach coordinator may help maintain visibility across activities
 
 ## High Visibility Engagements
 
